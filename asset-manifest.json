@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Aniei-Repo/static/css/main.5a787452.chunk.css",
+    "main.js": "/Aniei-Repo/static/js/main.14b9e316.chunk.js",
+    "main.js.map": "/Aniei-Repo/static/js/main.14b9e316.chunk.js.map",
+    "runtime-main.js": "/Aniei-Repo/static/js/runtime-main.5d1d50a5.js",
+    "runtime-main.js.map": "/Aniei-Repo/static/js/runtime-main.5d1d50a5.js.map",
+    "static/js/2.49851ff6.chunk.js": "/Aniei-Repo/static/js/2.49851ff6.chunk.js",
+    "static/js/2.49851ff6.chunk.js.map": "/Aniei-Repo/static/js/2.49851ff6.chunk.js.map",
+    "index.html": "/Aniei-Repo/index.html",
+    "precache-manifest.c74bcfa9bc0d347a715cea58969a6a5d.js": "/Aniei-Repo/precache-manifest.c74bcfa9bc0d347a715cea58969a6a5d.js",
+    "service-worker.js": "/Aniei-Repo/service-worker.js",
+    "static/css/main.5a787452.chunk.css.map": "/Aniei-Repo/static/css/main.5a787452.chunk.css.map",
+    "static/js/2.49851ff6.chunk.js.LICENSE.txt": "/Aniei-Repo/static/js/2.49851ff6.chunk.js.LICENSE.txt",
+    "static/media/pp.jpg": "/Aniei-Repo/static/media/pp.8b7c9843.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5d1d50a5.js",
+    "static/js/2.49851ff6.chunk.js",
+    "static/css/main.5a787452.chunk.css",
+    "static/js/main.14b9e316.chunk.js"
+  ]
+}
