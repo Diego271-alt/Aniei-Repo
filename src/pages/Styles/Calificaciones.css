@@ -1,0 +1,17 @@
+.main{
+    display: flex;
+    flex-direction: column;
+  
+}
+
+.calificaciones {
+    text-align: center;
+
+}
+
+.main .Curso{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
